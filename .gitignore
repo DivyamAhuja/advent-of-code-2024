@@ -1,0 +1,11 @@
+.vscode
+
+a.exe
+a.out
+a
+
+target/
+
+*.exe
+*.out
+*.pdb
